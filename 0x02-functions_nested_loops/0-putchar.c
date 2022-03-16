@@ -1,4 +1,3 @@
-
 #include "main.h"
 
 /**
@@ -21,4 +20,4 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
-}[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.h"[B[B[B[B[B[B[B[B[B[B[B[B[B[B[[C[C[C;[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+}
