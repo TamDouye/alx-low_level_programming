@@ -1,23 +1,20 @@
 #include "main.h"
-
 /**
- * main - prints _putchar
+ * main - Entry point
  *
- * Description: prints _putchar
- *
- * Return: 0 (Success)
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	char text[9] = "_putchar";
-	int i = 0;
+char Z[] = "_putchar\n";
+int t = 0;
 
-	for (i = 0; i < 8; i++)
-	{
-		_putchar(text[i]);
-	}
-	_putchar('\n');
+while (t < 9)
+{
+_putchar(Z[t]);
+t++;
+}
 
-	return (0);
+return (0);
+
 }
