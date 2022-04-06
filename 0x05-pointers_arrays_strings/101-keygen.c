@@ -1,5 +1,6 @@
 #include <stdio.h>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #include <stdlib.h>
 
@@ -68,6 +69,8 @@ int main(void)
 	return (0);
 
 =======
+=======
+>>>>>>> bbd31ca064ee12eafc797b7af581e7a57cfed112
 #include <stdlib.h>
 #include <time.h>
 
@@ -101,5 +104,8 @@ int main(void)
 	}
 
 	return (0);
+<<<<<<< HEAD
 >>>>>>> 82e5efc8451c197d63838afcb529300f0c9171af
+=======
+>>>>>>> bbd31ca064ee12eafc797b7af581e7a57cfed112
 }

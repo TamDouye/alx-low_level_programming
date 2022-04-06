@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 int _putchar(char);
 
 char *_strcat(char *dest, char *src);
@@ -25,6 +26,8 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r);
 
 void print_buffer(char *b, int size);
 =======
+=======
+>>>>>>> bbd31ca064ee12eafc797b7af581e7a57cfed112
 #ifndef MAIN_H
 #define MAIN_H
 
@@ -43,4 +46,7 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r);
 void print_buffer(char *b, int size);
 
 #endif
+<<<<<<< HEAD
 >>>>>>> 82e5efc8451c197d63838afcb529300f0c9171af
+=======
+>>>>>>> bbd31ca064ee12eafc797b7af581e7a57cfed112

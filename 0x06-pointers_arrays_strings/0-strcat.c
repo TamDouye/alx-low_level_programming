@@ -1,5 +1,6 @@
 #include "main.h"
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 /**
 
@@ -54,6 +55,8 @@ char *_strcat(char *dest, char *src)
 	return (dest);
 
 =======
+=======
+>>>>>>> bbd31ca064ee12eafc797b7af581e7a57cfed112
 /**
  * _strcat - concatenates 2 strings
  * @dest: input value
@@ -80,5 +83,8 @@ char *_strcat(char *dest, char *src)
 
 	dest[a] = '\0';
 	return (dest);
+<<<<<<< HEAD
 >>>>>>> 82e5efc8451c197d63838afcb529300f0c9171af
+=======
+>>>>>>> bbd31ca064ee12eafc797b7af581e7a57cfed112
 }

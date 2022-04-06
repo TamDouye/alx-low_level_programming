@@ -1,6 +1,7 @@
 #include "main.h"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 /**
@@ -90,6 +91,8 @@ int _atoi(char *s)
 	return (n);
 
 =======
+=======
+>>>>>>> bbd31ca064ee12eafc797b7af581e7a57cfed112
 /**
  * _atoi - converts a string to an integer
  * @s: string to be converted
@@ -133,5 +136,8 @@ int _atoi(char *s)
 		return (0);
 
 	return (n);
+<<<<<<< HEAD
 >>>>>>> 82e5efc8451c197d63838afcb529300f0c9171af
+=======
+>>>>>>> bbd31ca064ee12eafc797b7af581e7a57cfed112
 }
